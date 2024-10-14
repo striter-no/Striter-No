@@ -1,8 +1,4 @@
-|                                                                                                |
-| ---------------------------------------------------------------------------------------------- |
-| `[<img src="https://img.shields.io/badge/English-gray?style=flat-square" alt="English">](.md)` |
-
-`![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-blue?style=flat-square)`
+[<img src="https://img.shields.io/badge/English-gray?style=flat-square" alt="English">](README_EN.md) ![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-blue?style=flat-square)
 
 # Привет, странник
 
