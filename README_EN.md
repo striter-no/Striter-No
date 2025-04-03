@@ -17,8 +17,6 @@ When I was *12.5* years old, I entered the Moscow School of Programmers (MSPS), 
 
 Throughout my journey actively doing various projects, in the beginning it was simple games and attempts in 3D graphics and even my own language, now I am already doing my own *3D engine*, my own programming language and actively engaged in engineering (I know how to build a processor from transistors (*of course not in the most minute details, but at a significant level*)).
 
-Now I'm busy parsing the algorithm and principle of Library of Babel.
-
 > *Who is as deaf or blind as he who willingly hears and sees nothing?*
 > 
 > — John Heywood
